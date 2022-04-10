@@ -9,3 +9,6 @@ The aim of our project was to develop an ultra-cheap fluorescence microscope scr
 This project can be considered as an extension of the [UC2](https://github.com/openUC2/UC2-GIT) framework
 ![2D Design](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/Fluorescence%20Microscopy_new.png?raw=true "Optional Title")
 ![3D Design](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/prototype_planB.PNG?raw=true "Optional Title")
+
+## Cost table of used components
+![cost table](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/cost_table?raw=true "Optional Title")
