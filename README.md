@@ -11,7 +11,7 @@ This project can be considered as an extension of the [UC2](https://github.com/o
 ![3D Design](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/prototype_planB.PNG?raw=true "Optional Title")
 
 ## Cost table of used components
-![cost table](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/cost_table.jpg?raw=true "Optional Title")
+![cost table](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/cost_table.jpg?raw=true)
 
 ## Final Assembly
 ![final assembly](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/final_assembly.png)
