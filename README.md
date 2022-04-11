@@ -14,4 +14,4 @@ This project can be considered as an extension of the [UC2](https://github.com/o
 ![cost table](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/cost_table.jpg?raw=true "Optional Title")
 
 ## Final Assembly
-![final assembly](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/final_assembly.jpeg)
+![final assembly](https://github.com/Feanor007/GenEpi_project_microscope/blob/main/final_assembly.png)
